@@ -1,52 +1,34 @@
-{
-  "wallpapers": [
-    {
-      "author": "Saro Rindone",
-      "url": "https://raw.githubusercontent.com/EduardoB5to/shadow-/master/001.jpg",
-      "name": "001",
-      "thumbnail": "https://raw.githubusercontent.com/EduardoB5to/shadow-/master/001.jpg"
-    },
-    {
-      "author": "Saro Rindone",
-      "url": "https://raw.githubusercontent.com/EduardoB5to/shadow-/master/002.jpg",
-      "name": "002",
-      "thumbnail": "https://raw.githubusercontent.com/EduardoB5to/shadow-/master/002.jpg"
-    },
-    {
-      "author": "Saro Rindone",
-      "url": "https://raw.githubusercontent.com/EduardoB5to/shadow-/master/003.jpg",
-      "name": "003",
-      "thumbnail": "https://raw.githubusercontent.com/EduardoB5to/shadow-/master/003.jpg"
-    },
-    {
-      "author": "Saro Rindone",
-      "url": "https://raw.githubusercontent.com/EduardoB5to/shadow-/master/004.jpg",
-      "name": "004",
-      "thumbnail": "https://raw.githubusercontent.com/EduardoB5to/shadow-/master/004.jpg"
-    },
-    {
-      "author": "Saro Rindone",
-      "url": "https://raw.githubusercontent.com/EduardoB5to/shadow-/master/005.jpg",
-      "name": "005",
-      "thumbnail": "https://raw.githubusercontent.com/EduardoB5to/shadow-/master/005.jpg"
-    },
-    {
-      "author": "Saro Rindone",
-      "url": "https://raw.githubusercontent.com/EduardoB5to/shadow-/master/006.jpg",
-      "name": "006",
-      "thumbnail": "https://raw.githubusercontent.com/EduardoB5to/shadow-/master/006.jpg"
-    },
-    {
-      "author": "Saro Rindone",
-      "url": "https://raw.githubusercontent.com/EduardoB5to/shadow-/master/007.jpg",
-      "name": "007",
-      "thumbnail": "https://raw.githubusercontent.com/EduardoB5to/shadow-/master/007.jpg"
-    },
-    {
-      "author": "Saro Rindone",
-      "url": "https://raw.githubusercontent.com/EduardoB5to/shadow-/master/008.jpg",
-      "name": "008",
-      "thumbnail": "https://raw.githubusercontent.com/EduardoB5to/shadow-/master/008.jpg"
-    }
-  ]
-}
+[
+   {
+      "name":"Wallpaper 01",
+      "url":"https://raw.githubusercontent.com/EduardoB5to/shadow-/master/001.jpg"
+   },
+   {
+      "name":"Wallpaper 02",
+      "url":"https://raw.githubusercontent.com/EduardoB5to/shadow-/master/002.jpg"
+   },
+   {
+      "name":"Wallpaper 03",
+      "url":"https://raw.githubusercontent.com/EduardoB5to/shadow-/master/003.jpg"
+   },
+   {
+      "name":"Wallpaper 04",
+      "url":"https://raw.githubusercontent.com/EduardoB5to/shadow-/master/004.jpg"
+   },
+   {
+      "name":"Walpaper 05",
+      "url":"https://raw.githubusercontent.com/EduardoB5to/shadow-/master/005.jpg"
+   },
+   {
+      "name":"Wallpaper 06",
+      "url":"https://raw.githubusercontent.com/EduardoB5to/shadow-/master/006.jpg"
+   },
+   {
+      "name":"Wallpaper 07",
+      "url":"https://raw.githubusercontent.com/EduardoB5to/shadow-/master/007.jpg"
+   },
+   {
+      "name":"Wallpaper 08",
+      "url":"https://raw.githubusercontent.com/EduardoB5to/shadow-/master/008.jpg"
+   }
+]
